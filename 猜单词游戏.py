@@ -28,6 +28,4 @@ while True:     #--------------进入循环
     else:
         print("下次再见~")
         break
-
     
-
