@@ -23,7 +23,7 @@ guess()   #--------首次执行
 
 while True:     #--------------进入循环
     y=input("是否继续？(T/N):")
-    if y=="T":
+    if y=="T" or y=="y":
         guess()
     else:
         print("下次再见~")
