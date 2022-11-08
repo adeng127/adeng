@@ -1,4 +1,6 @@
 
+#发牌游戏
+
 
 class Card():
     '''A play card'''
@@ -94,4 +96,3 @@ if __name__=="__main__":
         print(hand)
         n=n+1
     input("\npress the enter key to exit")
-
